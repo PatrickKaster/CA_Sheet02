@@ -6,5 +6,5 @@ This is going to be the solution for exercise 2 of the
 
 style file: [HMC Mathematics Homework Class]
 
-[computer_animation]: 
-[HMC Mathematics Homework Class]: http://cg.cs.uni-bonn.de/en/teaching/ss-2015/lecture-computer-animation/
+[computer_animation]: http://cg.cs.uni-bonn.de/en/teaching/ss-2015/lecture-computer-animation/
+[HMC Mathematics Homework Class]: https://www.math.hmc.edu/computing/support/tex/classes/hmcpset/
