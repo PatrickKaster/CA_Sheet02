@@ -1,6 +1,0 @@
-function [ quat ] = vec2quat( vertices )
-
-
-quat = [w,x,y,z];
-end
-
